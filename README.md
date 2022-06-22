@@ -1,7 +1,7 @@
 
 ### About Me 🍉
 Full-stack developer and industrial engineer, currently living in Barcelona, Spain. 
-Specialized in building web apps via MERN stack. More details on technologies below 👇🏻
+Specialized in building web apps via MERN stack. More details on technologies below.
 
 ### Languages and tools  🪐
 <div>
