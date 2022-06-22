@@ -1,6 +1,5 @@
 ### About Me 🍉
-Full-stack developer and industrial engineer, currently living in Barcelona, Spain. 
-Specialized in building web apps via MERN stack. More details on technologies below.
+Full-stack developer and industrial engineer, specialized in building web apps via MERN stack. <br /> Currently living in Barcelona, Spain.
 
 ---
 
@@ -22,7 +21,7 @@ Specialized in building web apps via MERN stack. More details on technologies be
 
 ---
 
-### Stats
+### Stats 📈
 
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=grossomanache&theme=dark&background=000000)](https://git.io/streak-stats) <br />
