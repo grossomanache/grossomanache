@@ -1,10 +1,10 @@
+
+### About Me 🍉
 <div id="badges">
   <a href="https://www.linkedin.com/in/elias-heresi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-### About Me 🍉
 Full-stack developer and industrial engineer, currently living in Barcelona, Spain. 
 Specialized in building web apps via MERN stack. More details on technologies below 👇🏻
 
