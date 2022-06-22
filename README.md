@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me 🍉
+Full-stack developer and industrial engineer, currently living in Barcelona, Spain. 
+Specialized in building web apps via MERN stack. More details on technologies below 👇🏻
+
+### Languages and tools  🪐
 
 <!--
 **grossomanache/grossomanache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
