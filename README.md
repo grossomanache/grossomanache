@@ -3,6 +3,8 @@
 Full-stack developer and industrial engineer, currently living in Barcelona, Spain. 
 Specialized in building web apps via MERN stack. More details on technologies below.
 
+---
+
 ### Languages and tools  🪐
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -19,6 +21,7 @@ Specialized in building web apps via MERN stack. More details on technologies be
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### Contact information 💡
 <div id="badges">
