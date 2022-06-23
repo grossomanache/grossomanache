@@ -39,10 +39,13 @@ Full-stack developer and industrial engineer, specialized in building web apps v
 <div id="badges">
   <a href="https://www.linkedin.com/in/elias-heresi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br />
   <a href="mailto:elias.heresi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a><br />
+   <a href="https://wa.me/34645459550">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-    
+        
 </div>
 
