@@ -1,6 +1,6 @@
 <section align="center">
     <h3>About me 🍉</h3>
-    <p>Full-stack developer and industrial engineer, specialized in building web apps via MERN stack. <br />Passionate about creating bridges through which people will improve their lives with. <br /> Currently living in Barcelona, Spain.</p>
+    <p>Full-stack developer and industrial engineer, specialized in building web apps via MERN stack. <br />Passionate about creating bridges through which people will improve their lives with. <br /> Currently living in Santiago, Chile.</p>
 </section>
 
 ---
