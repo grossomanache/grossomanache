@@ -1,6 +1,6 @@
 <section align="center">
     <h3>About me 🍉</h3>
-    <p>Full-stack developer and industrial engineer, specialized in building full-stack web apps via MERN stack. <br />Passionate about creating bridges through which people will improve their lives with. <br /> Currently working at Reign 👑, a software development company, as a Frontend Developer. <br /> <br /> 📍 Santiago, Chile</p>
+    <p>Developer and industrial engineer, specialized in building full-stack web apps via MERN stack. <br />Passionate about creating bridges through which people will improve their lives with. <br /> Currently working at Reign 👑, a software development company, as a Frontend Developer. <br /> <br /> 📍 Santiago, Chile</p>
 </section>
 
 ---
