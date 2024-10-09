@@ -2,8 +2,8 @@
     <h2>About me 🍉</h2>
         <p>
         I'm a full-stack engineer with extensive experience across front-end, back-end, databases, and cloud platforms, ensuring robust and scalable solutions. 
-        Currently, I'm open to freelance opportunities. <br/>
-        Based in 📍 Santiago, Chile
+        <br/>
+        I'm currently open to freelance opportunities. Based in 📍 Santiago, Chile
     </p>
 </section>
 
