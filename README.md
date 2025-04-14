@@ -1,7 +1,7 @@
 <section align="left">
     <h2>About me 🍉</h2>
         <p>
-        I'm a full-stack engineer with extensive experience across front-end, back-end, databases, and cloud platforms, ensuring robust and scalable solutions. 
+        I'm a software engineer with extensive experience across back-end, front-end, databases, and cloud platforms, ensuring robust and scalable solutions. 
         <br/>
         <br/>
         Currently building Magnolia Solutions 
