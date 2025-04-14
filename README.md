@@ -4,7 +4,7 @@
         I'm a full-stack engineer with extensive experience across front-end, back-end, databases, and cloud platforms, ensuring robust and scalable solutions. 
         <br/>
         <br/>
-        I'm currently open to freelance opportunities. 
+        Currently building Magnolia Solutions 
         <br/>
         <br/>
         Based in 📍 Santiago, Chile
