@@ -4,7 +4,7 @@
         I'm a software engineer with extensive experience across back-end, front-end, databases, and cloud platforms, ensuring robust and scalable solutions. 
         <br/>
         <br/>
-        Currently building <a href="https://www.magnoliasolutions.io/">Magnolia Solutions<a/>
+        Currently building <a href="https://grossolabs.com/">Grosso Labs<a/>
         <br/>
         <br/>
         Based in 📍 Santiago, Chile
